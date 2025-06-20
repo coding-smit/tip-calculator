@@ -13,7 +13,7 @@ Easily calculate the tip amount and split the bill between people.
 
 ## 🖼️ Preview
 
-![Tip Calculator Screenshot](assets/screenshot.png) <!-- Replace with actual path if available -->
+![Tip Calculator Screenshot](tip-calculator.PNG) <!-- Replace with actual path if available -->
 
 ---
 
