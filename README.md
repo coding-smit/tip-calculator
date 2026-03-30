@@ -7,7 +7,7 @@ Easily calculate the tip amount and split the bill between people.
 
 ## 🚀 Demo
 
-🔗 [Live Demo](https://coding-smit.github.io/tip-calculator/) &nbsp; *(Replace with your GitHub Pages or live site URL)*
+🔗 [Live Demo](https://coding-smit.github.io/tip-calculator/) &nbsp; 
 
 ---
 
